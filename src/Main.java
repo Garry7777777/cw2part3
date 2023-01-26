@@ -16,6 +16,7 @@ public class Main {
                 sorted(Map.Entry.comparingByKey()).
                 sorted(Map.Entry.comparingByValue(Comparator.reverseOrder())).
                 limit( 10).
-                forEach(s -> System.out.println(s.getKey()+ " — "+ s.getValue()));
+                forEach(System.out::println);
+
     }
 }
