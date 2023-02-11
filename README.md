@@ -1,4 +1,3 @@
-# Курсовая работа 2-го курса
 
 ## Задача на функциональное программирование
 
@@ -12,8 +11,8 @@
  Например:
 
 **Input:**
-
->**yourapp** _the quick brown fox jumps over the lazy dog_ 
+         
+      yourapp  the quick brown fox jumps over the lazy dog 
 
 **Output:**
 
